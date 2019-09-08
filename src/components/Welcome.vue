@@ -209,7 +209,7 @@
     font-size: 3rem;
     text-align: center;
     color: #4A5D49;
-    margin-bottom: 25px;
+    margin-bottom: 25px !important;
   }
 
   .textAndButtons {
